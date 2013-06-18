@@ -1,4 +1,4 @@
-name             'myface'
+name             'myspace'
 maintainer       'Western_Union'
 maintainer_email 'kim.zvik@westernunion.com'
 license          'All rights reserved'

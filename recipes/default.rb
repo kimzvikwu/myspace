@@ -1,8 +1,8 @@
 #
-# Cookbook Name:: myface
+# Cookbook Name:: myspace
 # Recipe:: default
 #
-# Copyright 2013, YOUR_COMPANY_NAME
+# Copyright 2013, Western Union
 #
 # All rights reserved - Do Not Redistribute
 #
