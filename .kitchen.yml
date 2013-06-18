@@ -12,5 +12,5 @@ platforms:
  
 suites:
 - name: default
-  run_list: ["recipe[myspace]"]
+  run_list: ["recipe[kimzvik-myspace]"]
   attributes: {}
