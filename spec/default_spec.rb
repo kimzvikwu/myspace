@@ -1,10 +1,10 @@
 require 'spec_helper'
  
 # Replace USERNAME with your username!
-describe 'kimzvikwu-myface::default' do
+describe 'kimzvikwu-myspace::default' do
   let(:chef_run) do
     run = ChefSpec::ChefRunner.new(platform: 'ubuntu', version: '12.04')
-    run.converge('kimzvikwu-myface::default')
+    run.converge('kimzvikwu-myspace::default')
   end
  
   it 'installs apache2' do
